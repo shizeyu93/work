@@ -1,0 +1,2 @@
+1.安装 psycopy2 连接PostgreSQL
+	https://www.cnblogs.com/ruanjianlaowang/p/11182666.html

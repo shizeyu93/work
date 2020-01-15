@@ -1,0 +1,8 @@
+alter database test rename to test2;
+	修改数据库名称
+
+alter database test owner to XXX;
+	修改数据库拥有者
+
+alter database test1 with CONNECTION limit = 10;
+	修改数据库最大连接数
